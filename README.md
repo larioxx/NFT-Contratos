@@ -1,4 +1,4 @@
-<A HREF="https://github.com/larioxx/NFT-Larioxx/blob/main/logo.png">
+<A HREF=https://github.com/larioxx/NFT-Larioxx/blob/main/logo.png>
 
 #  Bienvenido a NFT-Larioxx
 Guia tutorial para crear un coleccionable NFT
