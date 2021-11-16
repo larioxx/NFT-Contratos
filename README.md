@@ -1,4 +1,4 @@
-https://github.com/larioxx/NFT-Larioxx/blob/main/logo.png
+<A HREF="https://github.com/larioxx/NFT-Larioxx/blob/main/logo.png">
 
 #  Bienvenido a NFT-Larioxx
 Guia tutorial para crear un coleccionable NFT
@@ -7,8 +7,10 @@ Guia tutorial para crear un coleccionable NFT
 
 ➡️Web oficial para conseguirlos:
 https://bit.ly/3qwIs2u
+
 ➡️Instagram:
 https://www.instagram.com/_insomnials_/
+
 ➡️Open Sea:
 https://opensea.io/collection/lightnix
 
