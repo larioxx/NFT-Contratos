@@ -14,7 +14,7 @@ https://www.instagram.com/_insomnials_/
 ➡️Open Sea:
 https://opensea.io/collection/lightnix
 
-![](https://github.com/larioxx/NFT-Larioxx/blob/main/logo.png)
+![](https://github.com/larioxx/NFT-Larioxx/blob/main/logo_w.png)
 
 
 # Satoshi Factory
