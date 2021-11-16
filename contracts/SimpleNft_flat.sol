@@ -1341,10 +1341,10 @@ contract NFT is ERC721Enumerable, Ownable {
   }
  
   function withdraw() public payable onlyOwner {
-    // Esto le pagará a Satoshi Factory el 5% de la venta inicial.
+    // Esto le pagará a Satoshi Factory el 10% de la venta inicial.
     // Puede eliminar esto si lo desea, o mantenerlo para apoyar a Satoshi Factory y su canal.
     // =============================================================================
-    (bool hs, ) = payable(0xadBd5FA14371156e03fFf7cC3E459F3aFc193Ee1).call{value: address(this).balance * 5 / 100}("");
+    (bool hs, ) = payable(0xadBd5FA14371156e03fFf7cC3E459F3aFc193Ee1).call{value: address(this).balance * 10 / 100}("");
     require(hs);
     // =============================================================================
     
