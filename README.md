@@ -1,8 +1,8 @@
 #  Bienvenido a NFT-Larioxx
 
--Guia tutorial para crear un coleccionable NFT-
+-Lista de contratos inteligentes para el desarrollo de un NFT-
 
-# ⚡️LIGHTNIX⚡️ (EN MATIC)
+## ⚡️LIGHTNIX⚡️ (EN MATIC)
 
 
 ➡️Web oficial para conseguirlos:
@@ -17,7 +17,7 @@ https://opensea.io/collection/lightnix
 ![](https://github.com/larioxx/NFT-Larioxx/blob/main/logo_w.png)
 
 
-# Satoshi Factory
+## Satoshi Factory
 ![](https://github.com/larioxx/NFT-Larioxx/blob/main/Satoshi_Banner.jpeg)
 
 🔊CANAL DE TELEGRAM (INFO EXTRA)
