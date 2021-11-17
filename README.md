@@ -1,4 +1,4 @@
-#  Bienvenido a NFT-Larioxx
+# solidity_smart_contracts
 
 -Lista de contratos inteligentes para el desarrollo de un NFT-
 
